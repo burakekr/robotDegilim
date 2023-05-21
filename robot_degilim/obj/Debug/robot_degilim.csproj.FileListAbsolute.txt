@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Dersler\C#\robot_degilim\robot_degilim\bin\Debug\robot_degilim.exe.config
+C:\Users\User\Desktop\Dersler\C#\robot_degilim\robot_degilim\bin\Debug\robot_degilim.exe
+C:\Users\User\Desktop\Dersler\C#\robot_degilim\robot_degilim\bin\Debug\robot_degilim.pdb
+C:\Users\User\Desktop\Dersler\C#\robot_degilim\robot_degilim\obj\Debug\robot_degilim.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Dersler\C#\robot_degilim\robot_degilim\obj\Debug\robot_degilim.Form1.resources
+C:\Users\User\Desktop\Dersler\C#\robot_degilim\robot_degilim\obj\Debug\robot_degilim.Properties.Resources.resources
+C:\Users\User\Desktop\Dersler\C#\robot_degilim\robot_degilim\obj\Debug\robot_degilim.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Dersler\C#\robot_degilim\robot_degilim\obj\Debug\robot_degilim.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dersler\C#\robot_degilim\robot_degilim\obj\Debug\robot_degilim.exe
+C:\Users\User\Desktop\Dersler\C#\robot_degilim\robot_degilim\obj\Debug\robot_degilim.pdb
